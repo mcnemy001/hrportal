@@ -23,7 +23,7 @@ HRPortal adalah aplikasi berbasis web untuk pengelolaan database kepegawaian, de
 ## Instalasi
 1. Clone repository:
    ```bash
-   git clone https://github.com/mcnemy001/hrportal.git)
+   git clone https://github.com/mcnemy001/hrportal.git
    cd hrportal
    ```
 2. Install dependencies:
