@@ -48,7 +48,7 @@ HRPortal adalah aplikasi berbasis web untuk pengelolaan database kepegawaian, de
    ```
 
 ## Struktur Database
-Lihat file `database_dump/hrportal_db.sql` untuk skema lengkap database.
+Lihat file `database_dump/aziyusman_IF-10_Kepegawaian.sql` untuk skema lengkap database.
 
 ## Link Repository
 [GitHub Repository](https://github.com/username/repository)
