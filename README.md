@@ -4,7 +4,7 @@
 HRPortal adalah aplikasi berbasis web untuk pengelolaan database kepegawaian, dengan fitur utama pencatatan kontrak kerja, status karyawan, dan peringatan untuk kontrak yang hampir habis.
 
 ## Teknologi yang Digunakan
-- **Backend:** CodeIgniter 4
+- **Backend:** Laravel 11
 - **Frontend:** Tailwind CSS
 - **Database:** MySQL
 - **Tools Tambahan:** PHPMyAdmin, GitHub
